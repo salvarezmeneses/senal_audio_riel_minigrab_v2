@@ -1,0 +1,9 @@
+Valor Pico (Pv): 1.00
+Valor RMS: 0.34
+Desviación Estándar (SD): 0.34
+Valor de Curtosis (Kv): 3.32
+Factor de Cresta (Crf): 2.96
+Factor de Holgura (Clf): 0.26
+Factor de Impulso (Imf): 3.78
+Factor de Forma (Shf): 1.28
+
